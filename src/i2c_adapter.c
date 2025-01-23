@@ -1,4 +1,3 @@
-
 #include "japersik/esp32_i2c_adapter/i2c_adapter.h"
 
 #include <stdlib.h>
